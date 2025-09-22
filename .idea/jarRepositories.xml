@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="maven_central_repo" />
+      <option name="name" value="maven_central_repo" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="P25065-RQS-incoming-maven" />
+      <option name="name" value="P25065-RQS-incoming-maven" />
+      <option name="url" value="https://pkgs.dev.azure.com/IngEurCDaaS01/IngOne/_packaging/P25065-RQS-incoming-maven/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="P00869-APISDK-releases@Release" />
+      <option name="name" value="P00869-APISDK-releases@Release" />
+      <option name="url" value="https://pkgs.dev.azure.com/INGCDaaS/IngOne/_packaging/P00869-APISDK-releases%40Release/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="P00869-APISDK-releases" />
+      <option name="name" value="P00869-APISDK-releases" />
+      <option name="url" value="https://pkgs.dev.azure.com/INGCDaaS/IngOne/_packaging/P00869-APISDK-releases/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="P17022-Outgoing-Feed-Maven" />
+      <option name="name" value="P17022-Outgoing-Feed-Maven" />
+      <option name="url" value="https://pkgs.dev.azure.com/IngEurCDaaS01/IngOne/_packaging/P17022-Outgoing-Feed-Maven/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="P16931-RmiServer-outgoing-maven" />
+      <option name="name" value="P16931-RmiServer-outgoing-maven" />
+      <option name="url" value="https://pkgs.dev.azure.com/IngEurCDaaS01/IngOne/_packaging/P16931-RmiServer-outgoing-maven/maven/v1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="P09905-outgoing-public-repo" />
+      <option name="name" value="P09905-outgoing-public-repo" />
+      <option name="url" value="https://pkgs.dev.azure.com/INGCDaaS/IngOne/_packaging/P09905-outgoing-public-repo/maven/v1" />
+    </remote-repository>
+  </component>
+</project>
